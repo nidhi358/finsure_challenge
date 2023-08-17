@@ -8,11 +8,11 @@ POST lender: Creates a new Lender
 
 GET lender?offset=<value>: List all lenders five per page (Default offset value=0)
 
-GET lender/<id>: Get Specific Lender id details
+GET lender/id: Get Specific Lender id details (id= specific_id)
 
-PUT lender/<id>: Update Lender
+PUT lender/id: Update Lender (id= specific_id)
 
-DELETE lender/<id>: Delete Lender
+DELETE lender/id: Delete Lender (id= specific_id)
 
 POST upload/: Upload Lenders in CSV format
 
