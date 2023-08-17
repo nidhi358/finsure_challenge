@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\finsure_challenge",
+    "\\finsure_challenge\\finsure_challenge",
+    "\\finsure_challenge\\manage_lender",
+    "\\finsure_challenge\\manage_lender\\migrations\\__pycache__",
+    "\\finsure_challenge\\manage_lender\\static",
+    "\\finsure_challenge\\manage_lender\\templates",
+    "\\venv\\Lib",
+    "\\venv\\Lib\\site-packages"
+  ],
+  "SelectedNode": "\\finsure_challenge\\manage_lender\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
